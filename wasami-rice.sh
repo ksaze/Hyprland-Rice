@@ -46,17 +46,14 @@ themes_stage=(
 )
 
 software_stage=(
-    visual-studio-code-bin
     firefox-developer-edition 
     discord 
     betterdiscordctl 
     betterdiscord-git 
-    telegram-desktop
     python-pywalfox
     #python-pywal 
     pywal-discord-git
     pipes.sh
-    wal-telegram-git 
     spotify
     spicetify-cli
     tty-clock 
