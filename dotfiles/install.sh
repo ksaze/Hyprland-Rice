@@ -16,9 +16,6 @@ sudo cp -r lib/sddm/sddm.conf.d/default.conf /lib/sddm/sddm.conf.d/
 sudo cp -r Anime /usr/share/sddm/themes
 sudo cp irako.png /usr/share/sddm/faces/$USER.face.icon
 sudo sed -i "s/^Current=.*/Current=Anime/g" /lib/sddm/sddm.conf.d/default.conf
-sed -i "s/irako/$USER/" dotfiles/.config/BetterDiscord/themes/pywal-discord-default.theme.css
-sed -i "s/irako/$USER/" dotfiles/.config/firefox/userChrome.css
-sed -i "s/irako/$USER/" dotfiles/.config/firefox/home/style.css
 sed -i "s/irako/$USER/" dotfiles/.config/hypr/hyprland.conf
 sleep 2
 
