@@ -3,14 +3,11 @@
 prep_stage=(
     brightnessctl
     dunst
-    eww
     grimblast-git
-    gegl
     inotify-tools
     ivm
     imagemagick
     light
-    libpng
     libdrm
     libxkbcommon
     pamixer
@@ -26,7 +23,6 @@ prep_stage=(
     swappy
     kitty
     wayland
-    wttrbar
     wlroots
     wf-recorder
     xdg-desktop-portal
@@ -46,56 +42,37 @@ themes_stage=(
 )
 
 software_stage=(
-    firefox-developer-edition 
     discord 
-    betterdiscordctl 
-    betterdiscord-git 
-    python-pywalfox
-    #python-pywal 
     pywal-discord-git
     pipes.sh
-    spotify
-    spicetify-cli
     tty-clock 
-    pipes.sh
-    cava 
     vlc
-    chromium
     imv
 )
 
 other_toys=(
-    gedit
     htop 
     libcanberra
-    mousepad
     neofetch 
     neovim 
     networkmanager-openvpn
     playerctl
     python 
     ripgrep
-    nodejs
-    npm
     python-pip 
     python-pillow
     swaybg
     tmux 
     zsh 
     waybar
-    docker
     pyenv
     bleachbit-cli
     tk
-
-
 )
 
 file_manager=(
-    file-roller
     gvfs 
     gvfs-smb
-    sshfs
     thunar 
     thunar-volman 
     tumbler 
