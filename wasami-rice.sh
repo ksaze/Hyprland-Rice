@@ -51,7 +51,6 @@ other_toys=(
     libcanberra
     neofetch 
     neovim 
-    networkmanager-openvpn
     playerctl
     python 
     ripgrep
