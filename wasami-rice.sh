@@ -6,8 +6,6 @@ prep_stage=(
     grimblast-git
     inotify-tools
     ivm
-    imagemagick
-    light
     libdrm
     libxkbcommon
     pamixer
@@ -18,8 +16,6 @@ prep_stage=(
     rofi
     sddm-sugar-candy-git
     swaybg
-    swaylock-effects
-    swww
     swappy
     kitty
     wayland
